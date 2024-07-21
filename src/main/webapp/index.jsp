@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Netflix Login Page | CodingNepal</title>
+    <title>Netflix Login and sing in Page | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -17,7 +17,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Email or Mobile number</label>
+          <label>Email id or Mobile number</label>
         </div>
         <div class="form-control">
           <input type="password" required />
